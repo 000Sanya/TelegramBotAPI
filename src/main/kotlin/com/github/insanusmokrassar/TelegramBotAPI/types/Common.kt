@@ -16,6 +16,8 @@ typealias ShippingOptionIdentifier = String
 typealias StartParameter = String
 typealias InlineMessageIdentifier = String
 
+typealias TelegramEncryptedData = String
+
 val callbackQueryAnswerLength = 0 until 200
 val captionLength = 0 until 1024
 val textLength = 0 until 4096
@@ -180,6 +182,9 @@ const val payloadField = "payload"
 const val vcardField = "vcard"
 const val resultsField = "results"
 const val certificateField = "certificate"
+const val dataField = "data"
+const val hashField = "hash"
+const val secretField = "secret"
 
 const val pointField = "point"
 const val xShiftField = "x_shift"
