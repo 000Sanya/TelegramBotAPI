@@ -2,6 +2,8 @@
 
 ## 0.13.0 Telegram Passport API
 
+* Fields of files are replaced and not internal for now
+
 ## 0.12.0 Webhooks
 
 * Added `DataRequest` interface which replace `Data` interface

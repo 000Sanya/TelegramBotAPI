@@ -208,6 +208,11 @@ const val providerPaymentChargeIdField = "provider_payment_charge_id"
 const val providerTokenField = "provider_token"
 const val providerDataField = "provider_data"
 
+const val fileIdField = "file_id"
+const val fileSizeField = "file_size"
+const val fileDateField = "file_date"
+const val filePathField = "file_path"
+
 const val requireNameField = "need_name"
 const val requirePhoneNumberField = "need_phone_number"
 const val requireEmailField = "need_email"

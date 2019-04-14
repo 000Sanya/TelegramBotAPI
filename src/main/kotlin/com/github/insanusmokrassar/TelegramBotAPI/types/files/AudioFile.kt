@@ -2,6 +2,8 @@ package com.github.insanusmokrassar.TelegramBotAPI.types.files
 
 import com.github.insanusmokrassar.TelegramBotAPI.CommonAbstracts.Performerable
 import com.github.insanusmokrassar.TelegramBotAPI.requests.abstracts.FileId
+import com.github.insanusmokrassar.TelegramBotAPI.types.fileIdField
+import com.github.insanusmokrassar.TelegramBotAPI.types.fileSizeField
 import com.github.insanusmokrassar.TelegramBotAPI.types.files.abstracts.*
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
